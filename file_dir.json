@@ -1,0 +1,10 @@
+
+{
+    "base_dir":"C:\\Users\\faiss\\Documents\\PLC-Reader - Python",
+    "DBs_folder":"DBs",
+    "main":"main.py",
+    "library":"lib.py",
+    "Gui":"PyQtGui.py",
+    "Gui_base":"PyQtUI.ui"
+    
+}
